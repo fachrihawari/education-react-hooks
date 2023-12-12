@@ -1,0 +1,92 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Ayam Original",
+      "description": "Ayam goreng dengan bumbu original",
+      "price": 15000,
+      "imgUrl": "https://picsum.photos/seed/picsum/200/300",
+      "authorId": 1,
+      "categoryId": 1,
+      "createdAt": "2022-09-14T07:04:21.170Z",
+      "updatedAt": "2022-09-14T07:04:21.170Z"
+    },
+    {
+      "id": 2,
+      "name": "Ayam Krispi",
+      "description": "Ayam goreng dengan bumbu krispi",
+      "price": 15500,
+      "imgUrl": "https://picsum.photos/seed/picsum/200/300",
+      "authorId": 1,
+      "categoryId": 1,
+      "createdAt": "2022-09-14T07:04:21.170Z",
+      "updatedAt": "2022-09-14T07:04:21.170Z"
+    },
+    {
+      "id": 3,
+      "name": "Ayam Keju",
+      "description": "Ayam goreng dengan bumbu keju",
+      "price": 16000,
+      "imgUrl": "https://picsum.photos/seed/picsum/200/300",
+      "authorId": 1,
+      "categoryId": 1,
+      "createdAt": "2022-09-14T07:04:21.170Z",
+      "updatedAt": "2022-09-14T07:04:21.170Z"
+    },
+    {
+      "id": 4,
+      "name": "Spaghetti",
+      "description": "Pasta Spaghetti ala italia dengan bumbu pilihan",
+      "price": 10000,
+      "imgUrl": "https://picsum.photos/seed/picsum/200/300",
+      "authorId": 1,
+      "categoryId": 2,
+      "createdAt": "2022-09-14T07:04:21.170Z",
+      "updatedAt": "2022-09-14T07:04:21.170Z"
+    },
+    {
+      "id": 5,
+      "name": "Fusilli",
+      "description": "Pasta Fusilli ala italia dengan bumbu pilihan",
+      "price": 16000,
+      "imgUrl": "https://picsum.photos/seed/picsum/200/300",
+      "authorId": 1,
+      "categoryId": 2,
+      "createdAt": "2022-09-14T07:04:21.170Z",
+      "updatedAt": "2022-09-14T07:04:21.170Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Ayam"
+    },
+    {
+      "id": 2,
+      "name": "Pasta"
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 1,
+      "itemId": 1,
+      "name": "Daging Ayam"
+    },
+    {
+      "id": 2,
+      "itemId": 1,
+      "name": "Bumbu Ayam"
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "username": "admin",
+      "email": "admin@kfc.com",
+      "password": "admin",
+      "role": "admin",
+      "phoneNumber": "021234567890",
+      "address": "Kantor KFC"
+    }
+  ]
+}
